@@ -1,6 +1,0 @@
-class Ftoc{
-	public static void main(String args[]){
-	
-	
-	}
-		}
